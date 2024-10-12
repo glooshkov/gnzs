@@ -1,0 +1,14 @@
+@import './base.css';
+
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  height: 100hv;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
